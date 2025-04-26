@@ -1,3 +1,4 @@
+# 🛒 Projeto de Gerenciamento de Produtos
 ## ✨ O que foi trabalhado
 
 - **Criação de classes** (`Produto` e `ProdutoPerecivel`) 👩‍💻👨‍💻
